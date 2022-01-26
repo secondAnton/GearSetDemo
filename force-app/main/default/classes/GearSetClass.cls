@@ -8,8 +8,7 @@ public class GearSetClass {
         return firstNumber - secondNumber;
     }
 
-    // Test Test Test
-    // Second second
-    // Third Third
-    // Five five
+    public Integer multiplyMethod(Integer firstNumber, Integer secondNumber) {
+        return firstNumber * secondNumber;
+    }   
 }
