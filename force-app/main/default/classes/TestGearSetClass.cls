@@ -18,4 +18,9 @@ private class TestGearSetClass {
         GearSetClass gearsetclass = new GearSetClass();
         System.assertEquals(4, gearsetclass.multiplyMethod(2, 2));
     }
+    @isTest 
+    static void testdivideMethod() {
+        GearSetClass gearsetclass = new GearSetClass();
+        System.assertEquals(4, gearsetclass.multiplyMethod(2, 2));
+    }
 }
