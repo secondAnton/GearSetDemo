@@ -11,4 +11,7 @@ public class GearSetClass {
     public Integer multiplyMethod(Integer firstNumber, Integer secondNumber) {
         return firstNumber * secondNumber;
     }   
+    public Integer divideMethod(Integer firstNumber, Integer secondNumber) {
+        return firstNumber * secondNumber;
+    }
 }
